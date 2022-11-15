@@ -9,6 +9,7 @@ license_text: VssMonitoring
 categories:
   - Monitor
   - CRT
+  - Computer
 tags:
   - Gamechanger 
   - Alien 
@@ -16,4 +17,5 @@ tags:
   - Innovation
   - Karl Ferdinand
   - Ray Tubes
+  - Technology
 ---
