@@ -1,15 +1,16 @@
 ---
 author: Efthimis015
-image_url: /images/oakley.jpg
+image_url: /images/google-nest-mini.jpg
 year: 2022
-title: Oakley - first-ever eyewear for pro gamers
-caption: According to The Esports Observer, North American eyewear designer Oakley has announced its partnership with esports organization Envy Gaming. Envy Gaming merged with OpTic last year and Oakley will become a jersey sponsor for both the OpTic Halo and Valorant teams, as well as OpTic Texas, which participates in the Call of Duty League. As part of the multi-year sponsorship agreement, all OpTic and Envy teams will exclusively wear Oakley eyewear during competitive play and at LAN events.
-license_url: "https://mygaming.co.za/news/wp-content/uploads/2022/05/Oakley.jpg"
-license_text: Oakley
+title: Google Nest Mini
+caption: Το Google Nest Mini είναι το πιο προσιτό έξυπνο ηχείο Google Assistant που μπορείτε να αγοράσετε. Δημιουργήθηκε ως αντίπαλος του Amazon Echo Dot, σχεδιασμένος για να προσφέρει βελτιωμένη ποιότητα ήχου από τις προηγούμενες γενιές. Υπόσχεται ταχύτερες αποκρίσεις του Google Assistant και πιο ευαίσθητη φωνητική αναγνώριση. Υπάρχει επίσης δύο φορές ισχυρότερο μπάσο από το αρχικό Mini - μια βελτίωση που ένας φανατικός ηχοφίλος μπορεί να μην εκτιμήσει στο έπακρο. Το Nest Mini είναι προσιτό και παράγει ικανοποιητική ποιότητα ήχου, αλλά απέχει πολύ από το τέλειο. Το ηχείο παρέχει πλήρη και καθαρό ήχο, αλλά δεν έχει έξοδο ήχου 3,5 χιλιοστών και δεν έχει ήχο που γεμίζει το δωμάτιο.
+license_url: "https://images.rawpixel.com/image_1000/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvczg5LXBvbS00NzMyXzIuanBn.jpg"
+license_text: Google Nest Mini
 categories:
-  - Gaming
-  - Smartglasses
+  - Μοντέλα
+  - Σκευομορφισμός
+  - SmartSpeaker
 tags: 
-  - Oakley
-  - Esports
+  - Google
+  - Smart
 ---
